@@ -6,6 +6,9 @@ A Telegram Torrent, youtube-dl Leecher, and rClone / Telegram Uploader!
 
 ### The Easy Way
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### The Legacy Way

@@ -85,6 +85,9 @@
   }, {
     "url": "heroku/python"
   }],
+  "addons": [],
+  "stack": "container",
+  "buildpacks": [],
   "formation": {
     "worker": {
       "quantity": 1,
